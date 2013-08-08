@@ -17,7 +17,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Paris - Lausanne Day 2"
-            }
+            },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
