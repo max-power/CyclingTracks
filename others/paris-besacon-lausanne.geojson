@@ -20,7 +20,7 @@
             "properties": {
                 "name": "Paris - Lausanne Day 2",
                 "date": "2013-07-30",
-                "length": 181.9,
+                "length": 181.9
             },
             "geometry": {
                 "type": "LineString",
