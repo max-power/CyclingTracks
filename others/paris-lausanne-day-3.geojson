@@ -4,7 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Paris - Lausanne Day 3"
+        "name": "Paris - Lausanne Day 3",
+        "date": "2013-07-31",
+        "length": 152.3
       },
       "geometry": {
         "type": "LineString",

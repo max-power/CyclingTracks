@@ -4,7 +4,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Paris - Lausanne Day 1"
+                "name": "Paris - Lausanne Day 1",
+                "date": "2013-07-29",
+                "lenght": 133.3
             },
             "geometry": {
                 "type": "LineString",
@@ -16,7 +18,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Paris - Lausanne Day 2"
+                "name": "Paris - Lausanne Day 2",
+                "date": "2013-07-30",
+                "length": 181.9,
             },
             "geometry": {
                 "type": "LineString",
@@ -28,7 +32,9 @@
         {
           "type": "Feature",
           "properties": {
-            "name": "Paris - Lausanne Day 3"
+            "name": "Paris - Lausanne Day 3",
+            "date": "2013-07-31",
+            "length": 152.3
           },
           "geometry": {
             "type": "LineString",
